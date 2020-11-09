@@ -6,3 +6,6 @@ Vielä yksi rivi.
 ---
 Lisäyksiä toka-haarassa.
 Toinen rivi.
+---
+Lisäyksiä main-haarassa.
+Vielä toinen rivi.
