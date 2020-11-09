@@ -1,3 +1,6 @@
 Tämä on uusi versio tärkeästä tiedostosta.
 Pitää kirjoittaa tekstiä.
 Vielä yksi rivi.
+---
+Lisäyksiä toka-haarassa.
+Toinen rivi.
